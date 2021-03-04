@@ -1,0 +1,10 @@
+C:\Users\Ding\source\repos\nosleep\bin\Debug\nosleep.exe.config
+C:\Users\Ding\source\repos\nosleep\bin\Debug\nosleep.exe
+C:\Users\Ding\source\repos\nosleep\bin\Debug\nosleep.pdb
+C:\Users\Ding\source\repos\nosleep\obj\Debug\nosleep.csprojAssemblyReference.cache
+C:\Users\Ding\source\repos\nosleep\obj\Debug\nosleep.MainWindow.resources
+C:\Users\Ding\source\repos\nosleep\obj\Debug\nosleep.Properties.Resources.resources
+C:\Users\Ding\source\repos\nosleep\obj\Debug\nosleep.csproj.GenerateResource.cache
+C:\Users\Ding\source\repos\nosleep\obj\Debug\nosleep.csproj.CoreCompileInputs.cache
+C:\Users\Ding\source\repos\nosleep\obj\Debug\nosleep.exe
+C:\Users\Ding\source\repos\nosleep\obj\Debug\nosleep.pdb
